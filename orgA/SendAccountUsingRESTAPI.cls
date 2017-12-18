@@ -1,8 +1,8 @@
 public class SendAccountUsingRESTAPI {
-   private static final String clientId = '3MVG9I5UQ_0k_hTlDaytJc9czwS6c1iIw_WxDecXMMMH2lxOZWoiLrccgqbfG8MJa4KQmpqhnBkrAjvrawthj';
-   private static final String clientSecret = '8628180734286918084';
-   private static final String username = 'restb@testing.com';
-   private static final String password = 'development2'; 
+   private static final String clientId = '';
+   private static final String clientSecret = '';
+   private static final String username = '';
+   private static final String password = ''; 
    private static final String similarAccountsEndPoint = 'https://eu9.salesforce.com/services/apexrest/v1/getSimilarAccounts/';
    private static final String deleteSimilarAccountEndPoint = 'https://eu9.salesforce.com/services/apexrest/v1/deleteSimilarAccount/';
    private static final String updateSimilarAccountEndPoint = 'https://eu9.salesforce.com/services/apexrest/v1/updateAccount/';
